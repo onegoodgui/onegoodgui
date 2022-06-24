@@ -14,7 +14,9 @@ Including:
 
 <h2><b> Current Stack </b></h2> <br>
 <div style="display: flex;">
+  <!-- NodeJS --><img src=https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=Node.JS&logoColor=white>
   <!-- Javascript --><img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black>
+  <!-- TypeScript --><img src=https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white>
   <!-- React --><img src=https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black>
   <!-- MongoDB --><img src=https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white>
   <!-- PostgreSQL --><img src=https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white>
@@ -27,6 +29,4 @@ Including:
    
   
 </div>
-
-
 
