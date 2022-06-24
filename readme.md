@@ -12,6 +12,11 @@ Including:
   <li> And much more! </li>
 </ul>
 
+<h2><b> Current Stack </b></h2> <br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) <br>
+![image]({https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white})
+
+
 
 
 
