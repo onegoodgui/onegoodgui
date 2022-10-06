@@ -26,7 +26,10 @@ Including:
   <!-- Docker --><img src=https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white>
   <!-- Redis --><img src=https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white>
   <!-- AWS --><img src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white>
-   
-  
 </div>
 
+<h2><b> Studying </b></h2> <br>
+<div style="display: flex;">
+  <!-- Ruby --><img src=https://img.shields.io/badge/Ruby-FFFFFF?style=for-the-badge&logo=Ruby&logoColor=red>
+  <!-- Ruby on Rails --><img src=https://img.shields.io/badge/Ruby_on_Rails-CC1400?style=for-the-badge&logo=RubyonRails&logoColor=white>
+</div>
